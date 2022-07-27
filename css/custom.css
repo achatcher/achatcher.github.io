@@ -12,11 +12,8 @@ h2{
 }
 body{
   background-color: black;
-  background-image: url("/Users/abu/Desktop/Treehouse\ Projects/achatcher.github.io/img/IMG_4506.jpg") !important; 
+  /* background-image: url("/Users/abu/Desktop/Treehouse\ Projects/achatcher.github.io/img/IMG_4506.jpg") !important;  */
   position: relative;
-}
-.title{
-   /* background-image: url("../img/IMG_4504.jpg") !important;  */
 }
 img{
   width: 100% !important;
